@@ -1,4 +1,4 @@
-# video-fall-detection
+# fall-detection
 OpenCv project to detect a person fall in videos with haarcascade
 
 # Prerequesite
